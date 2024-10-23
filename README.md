@@ -90,6 +90,11 @@ The `yt-dlp-wrapper` script provides the following commands:
   - **Options**:
     - `--search`: Search YouTube for a video and download it.
     - `-- <url>`: Download a media file or playlist from the provided URL.
+    - `--southpark`: Download episodes from South Park Studios.
+
+        - -s <season>: Specify the season number.
+        - -e <episode>: Specify the episode number.
+        - -l <language>: Specify the language ('EN' for English, 'DE' for German).
 - **help**: Displays a help message.
 
 ### Example Usage
